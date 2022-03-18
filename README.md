@@ -1,2 +1,2 @@
-# random
-...wait and see!...
+# Random CTF Challenges
+Small code tidbits from HTB CTF challenges
